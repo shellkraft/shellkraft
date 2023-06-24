@@ -5,13 +5,11 @@
 
 # More about me
 
-- 🌱 I’m currently learning **Malware Development**
+- 🌱 **I’m currently learning -** Malware Development
 
-- 💬 Ask me about **Python,VAPT**
+- 💬 **Ask me about -** Python,VAPT
 
-- 📫 Reach me **w4keupn3o@protonmail.com**
-
-- ⚡ Fun fact **Intelligence agencies like the NSA are known for their practice of hoarding zero-day vulnerabilities.**
+- ⚡ **Fun fact -** Intelligence agencies like the NSA are known for their practice of hoarding zero-day vulnerabilities.
 
 
 # Languages and Tools
@@ -26,6 +24,8 @@
 
 # Connect with me
 <p align="left">
-<a href="https://stackoverflow.com/users/22124288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22124288" height="30" width="40" /></a>
-<a href="https://discord.gg/zvTrRgwdvh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zvTrRgwdvh" height="30" width="40" /></a>
+<a href="https://disboard.org/server/join/1025011157586673797" target="blank"><img align="center" img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord Badge" /></a> <a href="https://t.me/sysploit" target="blank"><img align="center" img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram Badge" /></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=w4keupn3o%40protonmail.com">
+  <img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=fff&style=for-the-badge" alt="ProtonMail Badge" />
+</a>
+
 </p>
