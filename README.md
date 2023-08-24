@@ -1,5 +1,5 @@
 ![MasterHead](https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif)
-# 👾 Hello World, I'm `Grim` !👾
+# 👾 Hello World !👾
 ## *Welcome to my Github profile !*
 
 # About me
